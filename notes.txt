@@ -1,0 +1,26 @@
+Add the next line in the object init of a arsenal
+ [] call RSystems_fnc_setArsenal;
+
+Admin Menu:
+-Teleport to player/me
+-Load/save equipment (5 slots at least)
+-Clean floor
+-Set time
+-Start/stop briefing (Makes everyone in player radius to stand without moving - Special animation)
+-Punish (Play special animation on someone)
+
+Version 2.0:
+- Equip player
+- Heal player
+- Spawn vehicle
+- Give zeus permission (Only owner)
+- Remove zeus permission (Only owner)
+- Fix briefing
+- Fix time
+- Fix punishment
+- Increase slots
+- Change spawn key variable to an array of keys
+
+Version 2.1:
+- Arsenal player actions
+
